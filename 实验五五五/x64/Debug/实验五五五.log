@@ -1,0 +1,3 @@
+﻿  new_convert.cpp
+D:\课程\数据结构\作业工程\实验五\实验五工程\DS5\new_convert.cpp(154,21): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  实验五五五.vcxproj -> D:\课程\数据结构\作业工程\实验五\实验五工程\DS5\x64\Debug\实验五五五.exe
